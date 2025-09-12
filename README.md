@@ -1,3 +1,5 @@
 # In this CCR7 project, we performed multiple short molecular dynamics (MD) simulations, each lasting 1 $\micro$ s, and subsequently built Markov State Models to investigate the “breathing motion” of CCR7, a class A GPCR membrane protein.
 
-The combined simulation time amounts to 64.5 $\micro$ s.
+The combined simulation time amounts to 64.5 $\micro$ s. In this study, we focused on identifying the key macrostates of CCR7 along its structural activation pathway. Our results reveal that membrane lipids play a crucial role in modulating and facilitating the opening of CCR7’s intracellular cavity. Moreover, the lipids can potentially compete for and occupy the entrance gateways, thereby influencing the receptor’s opening and closing dynamics throughout the MD simulations. 
+
+In this work, we report for the first time the long-term, stable insertion of lipids into the extracellular core of CCR7, accompanied by subsequent structural changes in its downstream receptor-binding sites. We also identified previously unrecognized drug and ligand binding sites. These insights into potential drug-binding regions and ligand entry pathways are highly valuable for future drug development.
